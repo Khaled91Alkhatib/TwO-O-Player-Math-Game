@@ -10,7 +10,7 @@ A simple math game where two players take turns to answer math questions. Each p
 ## Setup
 * Fork and clone this repository.
 * Make sure you have Ruby installed on your machine.
-* Start the game in command line by typing `ruby main.rb`
+* Go to the root of the game directory and start the game in command line by typing `ruby main.rb`
 
 ## Dependancies
 * Ruby
